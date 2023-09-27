@@ -1,7 +1,7 @@
 import time
 import csv
 
-bot_token = "6362745691:AAF0LAXC-BM_Hr_gwXp7b02kZj6sybTmkgQ"
+bot_token = ""
 
 
 def add_current_time_to_rows(rows):
